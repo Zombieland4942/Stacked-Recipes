@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2020-05-30
+  Changes:
+    - auto-discover resources to create bulk recipes, allows for new resources created by other mods
+    - added optional dependencies on Deadlock bridges to ensure this mod loads last
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2020-05-04
+  Changes:
+    - initial release

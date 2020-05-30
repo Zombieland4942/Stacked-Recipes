@@ -1,6 +1,6 @@
 {
     "name": "stackedrecipes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Stacked Recipes",
     "author": "zombieland4942",
     "contact": "",
@@ -8,7 +8,18 @@
     "factorio_version": "0.18",
     "dependencies": [
         "base >= 0.18",
-        "deadlock-beltboxes-loaders >= 2.3.5"
+        "deadlock-beltboxes-loaders >= 2.3.5",
+        "(?)space-exploration-postprocess",
+        "(?)Deadlock-SE-bridge",
+        "(?)bobores >= 0.18.0",
+        "(?)Krastorio >= 1.4.53",
+        "(?)Krastorio2",
+        "(?)DeadlockStackingForBobs",
+        "(?)deadlock-compressed-titanium",
+        "(?)Deadlock-AAII-bridge",
+        "(?)DeadlocksStackingForPyanadon",
+        "(?)DeadlockStackingForKrastorioLegacy",
+        "(?)deadlock-stacking-crating-bobs >= 0.7.6"
     ],
     "description": "This mod adds some stacked recipes as well as a recipe modifier setting, allowing you to stack large volumes of items in an assemmbly machine, rather than multiple stacking beltboxes."
 }
