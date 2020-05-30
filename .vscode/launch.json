@@ -8,7 +8,8 @@
             "type": "factoriomod",
             "request": "launch",
             "name": "Factorio Mod Debug",
-            "factorioPath": "C:/Users/ZOMBI/Desktop/FactorioDev/bin/x64/factorio.exe"
+            "factorioPath": "C:/Users/ZOMBI/Desktop/FactorioDev/bin/x64/factorio.exe",
+            "hookData": true
         }
     ]
 }
